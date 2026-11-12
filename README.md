@@ -1,5 +1,3 @@
-# OFICINA-2I-REDES-M4-EXP.02
-
 # Exercício 02
 
 Página pessoal sobre a autoria do aluno, com apresentação, competências e formação.
